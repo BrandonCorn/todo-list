@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react'
-import TaskList from '../Components/Tasks'
+import TaskList from '../Components/TaskList'
 import NewTask from '../Components/NewTask'
 
 
